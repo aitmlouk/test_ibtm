@@ -2,3 +2,8 @@
 	path = aitmlouk/sdc_oval_account
 	url = git@github.com:aitmlouk/sdc_oval_account.git
 	branch = 11.0
+
+[submodule "ibtissambout/account_vat"]
+	path = ibtissambout/account_vat
+	url = git@github.com:ibtissambout/account_vat.git
+	branch = master
